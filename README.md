@@ -1,5 +1,5 @@
 # GBCart-Extender
-Extender and Bridge for Gameboy repros to fit in OEM cartridges.
+Extender and Bridge for Gameboy repros to fit in OEM cartridges. Gerbers and KiCAD projects inside.
 
 Two separate projects - one for the bridge (smaller piece) and one for the cart slot / extender (larger piece)
 
